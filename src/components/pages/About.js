@@ -39,20 +39,18 @@ class About extends Component {
                       <Item.Meta>2017 - Present</Item.Meta>
                       <Item.Description>
                         <p>
-                          Currently in my second year of study, so far I have taken papers on Algorithms and Data Structures, Object-Oriented Design,
-                          Computer Engineering and Mathematical Modelling. I am a member of the Software Engineering Students Association (SESA) and 
-                          Auckland University Program for Space Systems (APSS).
-                          I also Volunteer for the UoA Volunteers club and an in-school volunteer
-                          for <a href = "http://www.ewb.org.nz/"> Engineers Without Borders. </a> <br/>
+                          Currently in my third year of study, so far my favourite papers include: Algorithms and Data Structures, Object-Oriented Design,
+                          Software Quality Assurance, and Computer Engineering.
+                          <br/>
                           <b>Achievements:</b>
                           <ul>
-                            <li>2017 UoA Deans Honours List</li>
+                            <li>2018 and 2017 UoA Deans Honours List</li>
                             <li>Received UoA Maori Academic Excellence Scholarship</li>
                             <li>Received Fletchers Employee Educational Fund</li>
                           </ul>
                         </p>
                       </Item.Description>
-                      <Item.Extra> GPA: 8.917 / 9.0 </Item.Extra>
+                      <Item.Extra> GPA: 8.875 / 9.0 </Item.Extra>
                     </Item.Content>
                   </Item>
 
