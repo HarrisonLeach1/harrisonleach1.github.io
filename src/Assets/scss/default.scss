@@ -104,7 +104,7 @@ body,html {
 	margin-left: auto;
     margin-right: auto;
     margin-bottom: 3%;
-    width: 65%;
+    width: 50%;
     
     p {
     	ul {
@@ -115,10 +115,6 @@ body,html {
 
 .ui.items > .item {
 	margin-bottom: 4%;
-}
-
-[data-percent^='4'].ui.indicating.progress .label, [data-percent^='6'].ui.indicating.progress .label, [data-percent^='7'].ui.indicating.progress .label, [data-percent^='9'].ui.indicating.progress .label{
-	color: white;
 }
 
 .ui.grid > .row > .column {
@@ -142,7 +138,7 @@ body,html {
 	}
 
 	.ui.card {
-		width: 70%;
+		width: 65%;
 		margin: 8%;
 		margin-left: auto;
 		margin-right:auto;
