@@ -75,46 +75,6 @@ class About extends Component {
                 </Item.Group>
             </div>
             </div>
-            <div className ='dark-bg'>
-              <Header as='h2' icon textAlign='center'>
-                <Icon name='code' circular inverted disabled/>
-                <Header.Content>Skills</Header.Content>
-              </Header>
-              <Grid columns = {2}>
-                <Grid.Row>
-                  <Grid.Column>
-                    <Progress percent = {90} indicating inverted> Java </Progress>
-                  </Grid.Column>
-                  <Grid.Column>
-                    <Progress percent = {70} indicating inverted> C </Progress>
-                  </Grid.Column>
-                </Grid.Row>
-                <Grid.Row>
-                  <Grid.Column>
-                    <Progress percent = {70} indicating inverted> React </Progress>
-                  </Grid.Column>
-                  <Grid.Column>
-                    <Progress percent = {70} indicating inverted> HTML </Progress>
-                  </Grid.Column>
-                </Grid.Row>
-                <Grid.Row>
-                  <Grid.Column>
-                    <Progress percent = {70} indicating inverted> CSS / SCSS </Progress>
-                  </Grid.Column>
-                  <Grid.Column>
-                    <Progress percent = {60} indicating inverted> JavaScript </Progress>
-                  </Grid.Column>
-                </Grid.Row>
-                <Grid.Row>
-                  <Grid.Column>
-                    <Progress percent = {40} indicating inverted> Swift </Progress>
-                  </Grid.Column>
-                  <Grid.Column>
-                    <Progress percent = {40} indicating inverted> Python </Progress>
-                  </Grid.Column>
-                </Grid.Row>
-              </Grid>
-            </div>
             <div className ='light-bg'>
               <Header as='h2' icon textAlign='center'>
                 <Icon name='briefcase' circular/>
