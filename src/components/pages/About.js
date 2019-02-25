@@ -19,11 +19,7 @@ class About extends Component {
               </Header>
               <div className = 'p1'>
                 <p>
-                A software engineer with experience in both front-end and back-end technologies. I offer problem solving skills to teams and learn new skills quickly. 
-                My career goal is to become a full-stack software engineer involved in the development of the latest software technologies.
-                </p>
-                <p>
-                My Hobbies include playing football, exercising and playing FIFA. I also spend my freetime volunteering in numerous events throughout Auckland.
+                A software engineering student who enjoys coding and playing football.
                 </p>
               </div>
             </div>
@@ -133,7 +129,7 @@ class About extends Component {
                       <Item.Content>
                         <Item.Header as='h2'>Private Tutor</Item.Header>
                         <Item.Meta>MyTuition Ltd.</Item.Meta>
-                        <Item.Meta>Feb 2017 - Present</Item.Meta>
+                        <Item.Meta>Feb 2018 - Present</Item.Meta>
                         <Item.Description>
                           <p>Involves scheduling lessons and travelling to student's homes. Providing non-classroom support and employing learning 
                           strategies to help students understand the more difficult concepts. Monitoring the student's progress and ensuring they are well 
