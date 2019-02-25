@@ -63,6 +63,15 @@ body,html {
 }
 
 /*-------------------------------------------------------------ABOUT-------------------------------------------------------------*/
+.about {
+	.dark-bg * {
+		color: $light !important;
+	}
+	.light-bg * {
+		color: $dark !important;
+	}
+} 
+
 .p1 {
 	margin-left: auto;
     margin-right: auto;
