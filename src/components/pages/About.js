@@ -36,7 +36,7 @@ class About extends Component {
                         <Item.Content>
                           <Item.Header as='h2'>Private Tutor</Item.Header>
                           <Item.Meta>MyTuition Ltd.</Item.Meta>
-                          <Item.Meta>Feb 2018 - Present</Item.Meta>
+                          <Item.Meta>Feb 2018 - Nov 2018</Item.Meta>
                           <Item.Description>
                             <p>Involves scheduling lessons and travelling to student's homes. Providing non-classroom support and employing learning 
                             strategies to help students understand the more difficult concepts. Monitoring the student's progress and ensuring they are well 
