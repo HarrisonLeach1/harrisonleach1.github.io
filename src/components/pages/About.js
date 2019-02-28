@@ -31,6 +31,20 @@ class About extends Component {
                 </Header>
                 <div className ='item-section'>
                     <Item.Group>
+                    <Item>
+                        <Item.Image size='small' src={require('../../Assets/images/Nintex Promapp.png')} />
+                        <Item.Content>
+                          <Item.Header as='h2'>Software Developer Intern</Item.Header>
+                          <Item.Meta>Nintex Promapp</Item.Meta>
+                          <Item.Meta>Nov 2018 - Feb 2019</Item.Meta>
+                          <Item.Description>
+                            <p>Configured basic AWS EC2, Lambda, S3, IAM and SNS functionality via Terraform. Implemented back-end improvements using C#,
+                               .NET Framework, ASP.NET MVC, Entity Framework, and SQL Server. Designed testable code, wrote unit tests using NUnit and Moq. 
+                               Improved application security by fixing vulnerabilities revealed from a penetration test. Proficient with dependency 
+                               injection frameworks. Performed code reviews to improve code quality. </p>
+                          </Item.Description>
+                        </Item.Content>
+                      </Item>
                       <Item>
                         <Item.Image size='small' src={require('../../Assets/images/MyTuition.png')} />
                         <Item.Content>
