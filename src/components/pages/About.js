@@ -44,30 +44,6 @@ class About extends Component {
                           </Item.Description>
                         </Item.Content>
                       </Item>
-                      <Item>
-                        <Item.Image size='small' src={require('../../Assets/images/Higgins.png')} />
-                        <Item.Content>
-                          <Item.Header as='h2'>Quality Assurance/ Labourer</Item.Header>
-                          <Item.Meta>Higgins Contractors Ltd.</Item.Meta>
-                          <Item.Meta>Nov 2017 - Feb 2018</Item.Meta>
-                          <Item.Description>
-                            <p>Involved measurements and calculations of materials required for jobs. Mitigated losses by making accurate asphalt order 
-                            quantities. Cooperated with the foreman and crew to ensure job constraints were being met.</p>
-                          </Item.Description>
-                        </Item.Content>
-                      </Item>
-                      <Item>
-                        <Item.Image size='small' src={require('../../Assets/images/TheSurveyingCompany.png')} />
-                        <Item.Content>
-                          <Item.Header as='h2'>Assistant Surveyor/ Chainman</Item.Header>
-                          <Item.Meta>The Surveying Company Ltd.</Item.Meta>
-                          <Item.Meta>Dec 2015 - Feb 2016 (Casual Positions)</Item.Meta>
-                          <Item.Description>
-                            <p>Operation of equipment such as theodolites, total stations, reflectors and GPS systems. Communicated with surveyors 
-                            to assist them in completing topological surveys and laying out stakes for land development.</p>
-                          </Item.Description>
-                        </Item.Content>
-                      </Item>
                     </Item.Group>
                 </div>
               </div>
