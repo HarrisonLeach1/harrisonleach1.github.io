@@ -21,7 +21,7 @@ class CV extends Component {
                 <Icon name='download'/> Download PDF
               </Button>
             <div className = 'imageBox'>
-              <Image size = 'big' src = {require('../../Assets/images/HarrisonLeachCV.png')} centered/>
+              <Image size = 'big' src = {require('../../Assets/images/HarrisonLeachCV.jpg')} centered/>
             </div>
           </div>
         </Parallax>
