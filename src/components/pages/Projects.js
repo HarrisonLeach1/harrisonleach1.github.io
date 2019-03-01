@@ -17,7 +17,7 @@ class Projects extends Component {
               <Icon name='computer' circular inverted disabled/>
               <Header.Content>Projects</Header.Content>
             </Header>
-              <Button color= 'grey' inverted as = 'a' href = "https://github.com/HarrisonL7?tab=repositories">
+              <Button color= 'grey' inverted as = 'a' href = "https://github.com/HarrisonLeach1">
                 <Icon name='github'/> GitHub
               </Button>
             <div className = 'cardBox'>
