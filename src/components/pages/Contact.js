@@ -23,7 +23,7 @@ class CV extends Component {
             <Divider horizontal>OR</Divider>
             <div className = 'formBox'>
               <h2>Message me here:</h2>
-              <Form method="POST" action="https://formspree.io/battenorryg-9753@yopmail.com">
+              <Form method="POST" action="https://formspree.io/HarrisonLeach01@gmail.com">
                 <Form.Input type="text" name="name" placeholder="Name" label="Name" required/>
                 <Form.Input type="email" name="_replyto" placeholder="Email" label="Email" required/>
                 <Form.Input type="text" name="_subject" placeholder="Subject" label="Subject" required/>
