@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.247a1ef6.chunk.css",
+    "main.js": "/static/js/main.a48bc695.chunk.js",
+    "main.js.map": "/static/js/main.a48bc695.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.b1c63356.chunk.js": "/static/js/2.b1c63356.chunk.js",
+    "static/js/2.b1c63356.chunk.js.map": "/static/js/2.b1c63356.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec165eac0fc76e19516b5ac1ee5bb044.js": "/precache-manifest.ec165eac0fc76e19516b5ac1ee5bb044.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.247a1ef6.chunk.css.map": "/static/css/main.247a1ef6.chunk.css.map",
+    "static/media/HarrisonLeachCV.jpg": "/static/media/HarrisonLeachCV.f684d707.jpg",
+    "static/media/MyTuition.png": "/static/media/MyTuition.84785988.png",
+    "static/media/Nintex Promapp.png": "/static/media/Nintex Promapp.e540ca9f.png",
+    "static/media/UoA.png": "/static/media/UoA.3ee6513d.png",
+    "static/media/WHS.png": "/static/media/WHS.0300e82c.png",
+    "static/media/default.min.css": "/static/media/background-boardwalk-clouds-808465.e22e7026.jpg",
+    "static/media/website.PNG": "/static/media/website.31084149.PNG"
+  }
+}
