@@ -1,4 +1,4 @@
-Small personal web page. Can be found at: https://harrison-leach.me.
+Small personal web page. Can be found at: https://harrisonleach1.github.io.
 
 ## Build steps
 ### Development

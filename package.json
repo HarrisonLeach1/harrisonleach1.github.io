@@ -2,7 +2,7 @@
   "name": "harrison-leach",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harrison-leach.me",
+  "homepage": "https://harrisonleach1.github.io",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.8.3",
