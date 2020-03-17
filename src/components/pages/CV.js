@@ -17,7 +17,7 @@ class CV extends Component {
               <Icon name='file alternate' circular inverted disabled/>
               <Header.Content>My CV</Header.Content>
             </Header>
-              <Button color= 'grey' inverted as ='a' href = "HarrisonLeachCV.pdf" download>
+              <Button color= 'grey' inverted as ='a' href = "./HarrisonLeachCV.pdf" download>
                 <Icon name='download'/> Download PDF
               </Button>
             <div className = 'imageBox'>

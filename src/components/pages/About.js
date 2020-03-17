@@ -36,6 +36,19 @@ class About extends Component {
                         <Item.Content>
                           <Item.Header as='h2'>Software Developer Intern</Item.Header>
                           <Item.Meta>Nintex Promapp</Item.Meta>
+                          <Item.Meta>Nov 2019 - Feb 2020</Item.Meta>
+                          <Item.Description>
+                            <p>Full-stack development of new features using React, TypeScript and .NET Core. 
+                              Cloud Development using AWS and Azure. Agile development using Scrum
+                                </p>
+                          </Item.Description>
+                          <br/>
+                        
+                          <Item.Meta>July 2019</Item.Meta>
+                          <Item.Description>
+                            <p>Full-stack development of new features on a React, TypeScript frontend and a .NET CQRS backend.</p>
+                          </Item.Description>
+                          <br/>
                           <Item.Meta>Nov 2018 - Feb 2019</Item.Meta>
                           <Item.Description>
                             <p>Configured basic AWS EC2, Lambda, S3, IAM and SNS functionality via Terraform. Implemented back-end improvements using C#,
