@@ -9,7 +9,7 @@ $ npm start
 
 To automate CSS compilation while editing SCSS:
 ```shell
-$ gulp
+$ npm run gulp
 ```
 
 
