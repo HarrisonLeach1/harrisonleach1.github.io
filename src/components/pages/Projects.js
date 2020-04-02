@@ -116,12 +116,12 @@ class Projects extends Component {
                 </Card.Content>
               </Card>
               <Card fluid>
-                <Image fluid src={require("../../Assets/images/website.PNG")} />
+                <Image fluid src={require("../../Assets/images/website.png")} />
                 <Card.Content>
                   <Card.Header>Personal Website</Card.Header>
                   <Card.Meta>July 2018</Card.Meta>
                   <Card.Description>
-                    A simple static website built with <b>React</b>, <b>Sass</b> and <b>Gulp</b>. Hosted on GitHub pages and is kind of mobile-friendly.
+                    A simple static website built with <b>React</b>, <b>Sass</b> and <b>Gulp</b>. Hosted on GitHub pages and uses the Semantic UI library.
                   </Card.Description>
                   <br />
                   <Card.Description>
