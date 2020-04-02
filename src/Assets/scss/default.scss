@@ -194,17 +194,18 @@ html {
     margin-left: 20%;
     margin-right: 20%;
     min-height: 100vh;
-  }
+	}
+	.ui.divider {
+		margin-top: 3%;
+		margin-bottom: 3%;
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+		color: white;
+	}
 }
 
-.ui.divider {
-  margin-top: 3%;
-  margin-bottom: 3%;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  color: white;
-}
+
 
 .ui.for .required {
   display: none;
