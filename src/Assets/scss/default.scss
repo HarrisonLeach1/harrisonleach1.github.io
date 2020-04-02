@@ -67,8 +67,16 @@ html {
   }
   .light-bg * {
     color: $dark !important;
-	}
-	margin-top: 100px;
+  }
+  background: url("../images/background-boardwalk-clouds-808465.jpg") no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.about-description {
+  margin-top: 75px;
 }
 
 .p1 {

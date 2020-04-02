@@ -16,17 +16,17 @@ import "./Assets/css/default.min.css";
 class App extends Component {
   render() {
     return (
-      <HashRouter>
-        <div className="App">
-          <Header />
-          <Route exact path="/" component={Homepage} />
-          <Route exact path="/About" component={About} />
-          <Route exact path="/Projects" component={Projects} />
-          <Route exact path="/CV" component={CV} />
-          <Route exact path="/Contact" component={Contact} />
-          <Footer />
-        </div>
-      </HashRouter>
+        <HashRouter>
+          <div className="App">
+            <Header />
+            <Route exact path="/" component={Homepage} />
+            <Route exact path="/About" component={About} />
+            <Route exact path="/Projects" component={Projects} />
+            <Route exact path="/CV" component={CV} />
+            <Route exact path="/Contact" component={Contact} />
+            <Footer />
+          </div>
+        </HashRouter>
     );
   }
 }
