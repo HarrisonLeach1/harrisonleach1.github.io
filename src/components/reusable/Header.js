@@ -35,8 +35,8 @@ const Header = () => {
         <Menu.Item as={Link} smooth to="/Projects">
           Projects
         </Menu.Item>
-        <Menu.Item as={Link} smooth to="/CV">
-          CV
+        <Menu.Item as={Link} smooth to="/Resume">
+          Resume
         </Menu.Item>
         <Menu.Menu position="right">
           <Menu.Item as={Link} smooth to="/Contact">

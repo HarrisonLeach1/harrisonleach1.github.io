@@ -18,18 +18,18 @@ const Footer = () => (
             <List.Item as={Link} smooth to="/Projects">
               Projects
             </List.Item>
-            <List.Item as={Link} smooth to="/CV">
-              CV
+            <List.Item as={Link} smooth to="/Resume">
+              Resume
             </List.Item>
           </List>
         </Grid.Column>
         <Grid.Column width={3}>
           <Header inverted as="h4" content="Contact Me" />
           <List link inverted>
-            <List.Item as="a" to="https://www.linkedin.com/in/harrison-leach">
+            <List.Item as="a" href="https://www.linkedin.com/in/harrison-leach">
               LinkedIn
             </List.Item>
-            <List.Item as="a" to="https://github.com/HarrisonLeach1">
+            <List.Item as="a" href="https://github.com/HarrisonLeach1">
               GitHub
             </List.Item>
           </List>
@@ -43,7 +43,7 @@ const Footer = () => (
             <List.Item as="a" href="https://semantic-ui.com/">
               Semantic UI
             </List.Item>
-            <List.Item as="a" to="https://sass-lang.com/">
+            <List.Item as="a" href="https://sass-lang.com/">
               Sass
             </List.Item>
           </List>

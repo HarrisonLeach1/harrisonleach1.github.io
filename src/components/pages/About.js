@@ -31,7 +31,7 @@ class About extends Component {
                   <Table.Header>
                     <Table.Row>
                       <Table.HeaderCell colSpan="2" textAlign="center">
-                        I enjoy
+                        These are my favourite things to do when I am not working
                       </Table.HeaderCell>
                     </Table.Row>
                   </Table.Header>

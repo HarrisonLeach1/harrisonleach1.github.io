@@ -15,7 +15,7 @@ class Homepage extends Component {
         	    <h1>Hi there.</h1>
               <div className = 'buttons'>
                <Link to ="/About"><Button inverted size = 'huge'> About Me </Button></Link>
-               <Link to ="/CV"><Button inverted size = 'huge'> My CV </Button></Link>
+               <Link to ="/Projects"><Button inverted size = 'huge'> My Projects </Button></Link>
                <Link to ="/Contact"><Button inverted size = 'huge'> Contact </Button></Link>
               </div>
             </Grid.Column>

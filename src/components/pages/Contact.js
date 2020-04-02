@@ -3,7 +3,7 @@ import { Form, Header, Icon, Button, Message, Divider} from 'semantic-ui-react';
 import { Parallax } from 'react-parallax';
 
 
-class CV extends Component {
+class Resume extends Component {
   render() {
     return (
       <div className = 'contact'>
@@ -39,4 +39,4 @@ class CV extends Component {
   }
 }
 
-export default CV;
+export default Resume;

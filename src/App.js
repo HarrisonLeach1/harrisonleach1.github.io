@@ -7,7 +7,7 @@ import Header from "./components/reusable/Header";
 import Homepage from "./components/pages/Homepage";
 import About from "./components/pages/About";
 import Projects from "./components/pages/Projects";
-import CV from "./components/pages/CV";
+import Resume from "./components/pages/Resume";
 import Contact from "./components/pages/Contact";
 
 //includes
@@ -22,7 +22,7 @@ class App extends Component {
             <Route exact path="/" component={Homepage} />
             <Route exact path="/About" component={About} />
             <Route exact path="/Projects" component={Projects} />
-            <Route exact path="/CV" component={CV} />
+            <Route exact path="/Resume" component={Resume} />
             <Route exact path="/Contact" component={Contact} />
             <Footer />
           </div>

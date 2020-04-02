@@ -42,10 +42,10 @@ class UISidebar extends Component {
                   Projects
                 </Menu.Item>
             </Link>
-            <Link to = "/CV">
+            <Link to = "/Resume">
                 <Menu.Item as='a' onClick = {this.handleSidebarHide}>
                   <Icon name='file alternate' />
-                  CV
+                  Resume
                 </Menu.Item>
             </Link>
             <Link to = "/Contact">
