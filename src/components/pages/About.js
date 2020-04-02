@@ -40,8 +40,8 @@ class About extends Component {
                       <Table.Cell textAlign="center"> Football</Table.Cell> <Table.Cell textAlign="center">Gyming</Table.Cell>
                     </Table.Row>
                     <Table.Row>
-                      <Table.Cell textAlign="center">The outdoors</Table.Cell>
-                      <Table.Cell textAlign="center">The office</Table.Cell>
+                      <Table.Cell textAlign="center">Being outdoors</Table.Cell>
+                      <Table.Cell textAlign="center">Watching the office (US)</Table.Cell>
                     </Table.Row>
                     <Table.Row>
                       <Table.Cell textAlign="center">Reading books</Table.Cell> <Table.Cell textAlign="center">Playing board games</Table.Cell>
@@ -76,9 +76,9 @@ class About extends Component {
                     </p>
                     <b>Achievements:</b>
                     <ul>
-                      <li>2018 and 2017 UoA Deans Honours List</li>
+                      <li>2019, 2018 and 2017 UoA Deans Honours List</li>
                       <li>Received UoA Maori Academic Excellence Scholarship</li>
-                      <li>Received Fletchers Employee Educational Fund</li>
+                      <li>Have received 6 First in course awards</li>
                     </ul>
                     <h4>Notable courses:</h4>
                     <ul>
@@ -173,7 +173,7 @@ class About extends Component {
                   <Item.Header as="h2">Software Developer Intern</Item.Header>
                   <Item.Meta>Nintex Promapp</Item.Meta>
                   <p>
-                    "{" "}
+                    "
                     <i>
                       Simple. Social. Sharable. Build, improve and share process knowledge from a central online repository with Nintex Promapp's business
                       process management (BPM) software. Turn complex process maps, Visio charts and procedure documents into clean, simple process maps that
