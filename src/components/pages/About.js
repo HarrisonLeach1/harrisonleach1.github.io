@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 //components
-import { Header, Icon, Item, Table, Label } from "semantic-ui-react";
+import { Header, Icon, Item, Table, Image } from "semantic-ui-react";
 
 class About extends Component {
   render() {
@@ -9,8 +9,9 @@ class About extends Component {
       <div className="about">
         <div className="dark-bg">
           <div className="about-description">
+            <Image fluid align="center" size="small" src={require("../../Assets/images/profile-pic.jpeg")} circular centered />
+
             <Header as="h2" icon textAlign="center">
-              <Icon name="user" circular inverted disabled />
               <Header.Content>About Me</Header.Content>
             </Header>
             <div className="p1">
@@ -69,8 +70,8 @@ class About extends Component {
                   <Item.Meta>2017 - Present</Item.Meta>
                   <Item.Description>
                     <p>
-                      Currently in my third year of study, so far my favourite papers include: Algorithms and Data Structures, Object-Oriented Design, Software
-                      Quality Assurance, and Computer Engineering.
+                      Currently in my fourth and final year of study, so far my favourite papers include: Algorithms and Data Structures, Object-Oriented
+                      Design, Software Architecture, Software Design and Database systems.
                       <br />
                     </p>
                     <b>Achievements:</b>
