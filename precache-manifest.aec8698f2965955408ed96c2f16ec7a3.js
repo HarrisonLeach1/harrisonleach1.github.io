@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b62797cb6a7d76d4a8d9373e75d33824",
+    "revision": "e60833fd3e2dd59b91b486c8f2ec9309",
     "url": "/index.html"
   },
   {
-    "revision": "dee10967833c23670a93",
-    "url": "/static/css/main.f41ed6ae.chunk.css"
+    "revision": "3383f8fddd6d73790dee",
+    "url": "/static/css/main.ab5c5f2d.chunk.css"
   },
   {
-    "revision": "68e0244525ced013971e",
-    "url": "/static/js/2.523a32a9.chunk.js"
+    "revision": "13aaa970d1faa1bc06ca",
+    "url": "/static/js/2.83f85879.chunk.js"
   },
   {
     "revision": "db38e94adf3bedbb7d7fbc3fd0294b63",
-    "url": "/static/js/2.523a32a9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.83f85879.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dee10967833c23670a93",
-    "url": "/static/js/main.f721eace.chunk.js"
+    "revision": "3383f8fddd6d73790dee",
+    "url": "/static/js/main.eea2e840.chunk.js"
   },
   {
     "revision": "f387bfc95b9a61ebdb5e",
     "url": "/static/js/runtime-main.241b2a09.js"
   },
   {
-    "revision": "aec72a4a3f66bdefa9e1662bdbcfdd88",
-    "url": "/static/media/HarrisonLeachCV.aec72a4a.jpg"
-  },
-  {
-    "revision": "84785988d7ccffb291ac6d726340f736",
-    "url": "/static/media/MyTuition.84785988.png"
+    "revision": "dda990151fd781c2a3c639ed4b467b5b",
+    "url": "/static/media/HarrisonLeachCV.dda99015.jpg"
   },
   {
     "revision": "e540ca9fd318c9245e9bad5282669d40",
@@ -48,6 +44,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/background-boardwalk-clouds-808465.e22e7026.jpg"
   },
   {
+    "revision": "86ffdd543f09b67812f36004b60ad5f1",
+    "url": "/static/media/icon-large.86ffdd54.png"
+  },
+  {
+    "revision": "5a99d3ff0609895e720a9f4bd101f6f3",
+    "url": "/static/media/profile-pic.5a99d3ff.jpeg"
+  },
+  {
     "revision": "aaf7c643705f094b4a6394e4345df884",
     "url": "/static/media/sunny-town.aaf7c643.png"
   },
@@ -56,7 +60,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/task-scheduler.4bcf874b.png"
   },
   {
-    "revision": "3108414974821acd3da0ea25bb6338e5",
-    "url": "/static/media/website.31084149.PNG"
+    "revision": "ec2684284073f783930ebda4c7fb36d0",
+    "url": "/static/media/website.ec268428.png"
+  },
+  {
+    "revision": "c75057b0d9b6c2f118389c85b96c34cb",
+    "url": "/static/media/workout-tracker-showcase.c75057b0.png"
   }
 ]);
