@@ -18,14 +18,14 @@ const Header = () => {
 
         <Dropdown item simple text="About">
           <Dropdown.Menu>
-            <Dropdown.Item as={Link} smooth to="/About#Experience">
-              Experience
+            <Dropdown.Item as={Link} smooth to="/About#Interests">
+              Interests
             </Dropdown.Item>
             <Dropdown.Item as={Link} smooth to="/About#Education">
               Education
             </Dropdown.Item>
-            <Dropdown.Item as={Link} smooth to="/About#Interests">
-              Interests
+            <Dropdown.Item as={Link} smooth to="/About#Experience">
+              Experience
             </Dropdown.Item>
             <Dropdown.Item as={Link} smooth to="/About#Skills">
               Skills

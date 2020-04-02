@@ -64,6 +64,9 @@ html {
 .about {
   .dark-bg * {
     color: $light !important;
+    .td {
+      color: $dark !important;
+    }
   }
   .light-bg * {
     color: $dark !important;
@@ -90,7 +93,7 @@ html {
 }
 
 .dark-bg {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.8);
   padding: 30px;
   margin: 0;
   color: $light;
@@ -98,10 +101,17 @@ html {
   .icon {
     color: white;
   }
+
+  th.center.aligned {
+    color: black !important;
+  }
+  td.center.aligned {
+    color: black !important;
+  }
 }
 
 .light-bg {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 30px;
   color: $dark;
 }
@@ -110,6 +120,7 @@ html {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  margin-bottom: 20px;
 
   p {
     ul {
@@ -194,18 +205,16 @@ html {
     margin-left: 20%;
     margin-right: 20%;
     min-height: 100vh;
-	}
-	.ui.divider {
-		margin-top: 3%;
-		margin-bottom: 3%;
-		margin-left: auto;
-		margin-right: auto;
-		width: 60%;
-		color: white;
-	}
+  }
+  .ui.divider {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    color: white;
+  }
 }
-
-
 
 .ui.for .required {
   display: none;
