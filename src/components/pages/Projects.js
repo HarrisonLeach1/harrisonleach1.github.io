@@ -21,7 +21,7 @@ class Projects extends Component {
               <Card fluid>
                 <Image fluid src={require("../../Assets/images/workout-tracker-showcase.png")} />
                 <Card.Content>
-                  <Card.Header>Workout Tracker iOS/Android App - Personal Project</Card.Header>
+                  <Card.Header>Workout Tracker - iOS/Android App</Card.Header>
                   <Card.Meta>October 2019</Card.Meta>
                   <Card.Description>
                     An app to create workout routines and exercises to track your workout progress during isolation/quarantine. I created this app to learn new
@@ -58,7 +58,7 @@ class Projects extends Component {
               <Card fluid>
                 <Image fluid src={require("../../Assets/images/sunny-town.png")} />
                 <Card.Content>
-                  <Card.Header>Sunny Town Web Game - University Project </Card.Header>
+                  <Card.Header>Sunny Town - Web Game</Card.Header>
                   <Card.Meta>October 2019</Card.Meta>
                   <Card.Description>
                     A Web-based serious game aimed at promoting Climate Change awareness. Designed for children in intermediate school years (aged 12-13). Built
@@ -94,7 +94,7 @@ class Projects extends Component {
               <Card fluid>
                 <Image fluid src={require("../../Assets/images/task-scheduler.png")} />
                 <Card.Content>
-                  <Card.Header>Task Scheduler - University Project</Card.Header>
+                  <Card.Header>Task Scheduler</Card.Header>
                   <Card.Meta>August 2019</Card.Meta>
                   <Card.Description>
                     This project involved using artificial intelligence (AI) and parallel processing power to solve an NP-Hard scheduling problem. Built with{" "}
